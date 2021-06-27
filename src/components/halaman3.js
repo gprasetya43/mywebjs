@@ -20,7 +20,7 @@ class Halaman3 extends Component {
                                         <a href = "https://twitter.com/Gunawan97933127" rel = "noopener noreferrer" target = "_blank">
                                              <i className= "fa fa-twitter-square" aria-hidden="true"/>
                                         </a>
-                                        <a href = "https://api.whatsapp.com/send?phone=6282134306894" rel = "noopener noreferrer" target = "_blank">
+                                        <a href = "https://api.whatsapp.com/send?phone=6282134306893" rel = "noopener noreferrer" target = "_blank">
                                              <i className= "fa fa-whatsapp" aria-hidden="true"/>
                                         </a>
                                         <a href = "https://www.instagram.com/gunawan_prasetya10" rel = "noopener noreferrer" target = "_blank">
